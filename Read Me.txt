@@ -1,0 +1,38 @@
+﻿Read Me File
+Spencer Long
+15-112 Term Project
+
+
+
+
+Project Description:
+
+
+My project is called Shapes Tower Defense. It is based on the popular online game Balloon Towers Defense. The game is a 1 player strategy game where players place towers with different abilities on the board. These towers will pop balloons that spawn at a beginning and travel along a path. When a balloon reaches the end of the path, the player’s health is decreased. When the player’s health reaches 0, the player loses.
+
+
+
+
+How to Run the Code:
+
+
+The codebase is one single file named tp.py. The only other file needed is the CMU tkinter graphics file. Make sure that they are in the same directory, then run the tp.py file to run the overall game.
+
+
+
+
+Libraries Used:
+
+
+There were no libraries used.
+
+
+
+
+Shortcut Commands:
+
+
+The user can press ‘c’ to gain 1000 coins and try out different towers. They can also use the coins to upgrade the current towers on the board.
+
+
+The user can press ‘l’ to skip ahead to level 20 and see faster balloons and all the different types of balloons. Note to press this key when a new wave isn’t occurring.
